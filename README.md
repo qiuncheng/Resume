@@ -4,7 +4,7 @@
     <li><span>电话</span>176 0063 6630</li>
     <li><span>QQ</span>457178968</li>
     <li><span>邮箱</span><a href="mailto:qiuncheng@gmail.com">qiuncheng@gmail.com</a></li>
-    <li><span>Github</span><a>github.com/qiuncheng</a></li>
+    <li><span>Github</span><a href="https://github.com/qiuncheng">github.com/qiuncheng</a></li>
   </ul>
 </h1>
 
@@ -18,7 +18,7 @@
 ## 项目经验
 ### 项目一 同桌App<span class="role">:&nbsp; 核心开发者，项目负责人</span><span class="right">2017.10 - 至今</span>
 * 技术栈：**Swift**
-* 2017年10月 到 2018年7月作为主要开发者参与同桌App的开发，负责了弹幕模块，游戏模块，个人主页开发，并开发了内部使用的下拉刷新，IM音频录制与播放，并独立初私有 Pod。
+* 2017年10月 到 2018年7月作为主要开发者参与同桌App的开发，负责了弹幕模块，游戏模块，个人主页开发，并开发了内部使用的下拉刷新，IM音频录制与播放，并独立出私有 Pod。
 * 2019年1月 开始负责同桌App的开发，独立开发了语音与录屏房间，首页改版，说说模块，群组模块，使用过审策略让同桌App在6月份之后顺利审核通过。
 * 善于优化代码，最近几个版本同桌App闪退率在0.3%左右，影响用户不到1%
 * 在同桌App 中使用的技术栈主要为 Swift, 部分地方使用 RxSwift, MVVM。
