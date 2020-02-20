@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "vuepress-theme-resume": "^1.0.1"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   }
 }
